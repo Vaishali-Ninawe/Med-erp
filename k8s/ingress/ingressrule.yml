@@ -8,7 +8,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host:  veanyninave.online
+  - host:  #=======wrong ==veanyninave.online
     http:
       paths:
         
